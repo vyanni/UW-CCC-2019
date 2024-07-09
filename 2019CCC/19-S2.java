@@ -4,9 +4,8 @@ public class 19-S2 {
     public static void main(String[] args) throws Exception {
 
         Scanner userInput = new Scanner (System.in);
-        System.out.println("How many lines of averages?");
+        System.out.println("Enter Amount of Lines");
         int T = userInput.nextInt();
-        System.out.println("Enter " + T + " numbers, and we'll find all 2 primes that are the averages of those numbers.");
         
         for (int e = 0; e < T; e++){
             int N = userInput.nextInt();
