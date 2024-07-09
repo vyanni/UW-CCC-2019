@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class 19S1F {
+public class 19-S1 {
     public static void main(String[] args) throws Exception {
         Scanner userInput = new Scanner(System.in);
 
